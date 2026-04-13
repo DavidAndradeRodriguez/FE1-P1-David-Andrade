@@ -1,3 +1,5 @@
 tomando en cuenta la informacion que se presenta en el archivo, que zona destacada podria añadirse para que complemente los otros puntos que estan dentro? se simple por favor
 podrias darme ciertos ejemplos de que podria añadir al css? tomando en cuenta la informacion presentada en el archivo .html
 de que forma puedo distribuir yo mejor el contenido sin que se pierda la intencion que se quiere mostrar?
+de que forma puedo añadir diferentes secciones dentro de la pagina? con esto me refiero a diferentes secciones, no redirecciones a una parte de la misma pagina
+podrias implementar la informacion presente para cada categoria en navegacion? desde "Activities" hasta "Contact", por favor asegurar que la informacion no se repita con la de "Inicio"
